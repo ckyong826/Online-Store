@@ -7,7 +7,7 @@ Online store website for personal project(Still developing)
 
 **Server:** Flask
 
-### Modules developed
+## Modules developed
 
 ### **1. User-Facing Modules:**
 
