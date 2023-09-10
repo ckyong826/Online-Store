@@ -46,7 +46,8 @@ Online store website for personal project(Still developing)
 - **FAQs**:
   - Answers to common questions about ordering, shipping, returns, etc.
 
----
+- **Payment Gateway**:
+  - Users can pay for the orders.
 
 ### **2. Admin-Facing Modules (Back-end)**:
 
@@ -81,27 +82,3 @@ Online store website for personal project(Still developing)
   - Monitor customer reviews and ratings.
   - Approve or disapprove reviews to be displayed.
 
----
-
-### **3. Additional Modules (for enhanced functionality)**:
-
-- **Newsletter Signup & Management**:
-  - Allow users to sign up for newsletters.
-  - Manage newsletter content and dispatch.
-
-- **Loyalty & Rewards Program**:
-  - Let users earn points with purchases or referrals.
-  - Manage redemption of points.
-
-- **Chat Support**:
-  - Real-time chat support for user queries.
-
-- **Affiliate Program**:
-  - Manage affiliate partnerships and track commissions.
-
-- **Event Calendar**:
-  - If you're hosting or participating in events, let users know where and when.
-
----
-
-It's essential to prioritize modules based on your immediate requirements and budget. Starting with the core modules and then gradually expanding as the brand grows is a common and practical approach. Also, ensure the website is mobile-responsive since a significant portion of users will likely visit via mobile devices.
