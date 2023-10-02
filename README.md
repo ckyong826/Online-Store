@@ -1,5 +1,5 @@
 # Online-Store
-Online store website for personal project(Still developing)
+Online store website for streetwear brand "VIBE"
 
 ## Tech Stack
 
@@ -33,9 +33,8 @@ Online store website for personal project(Still developing)
   - Registration and login functionality.
   - Profile management.
   - Order history and tracking.
-  - Wishlist.
 
-- **Blog/Content Section**:
+- **STORY Section**:
   - Articles about street culture, fashion trends, brand stories, and more.
   - Engage users and improve SEO.
 
@@ -47,9 +46,9 @@ Online store website for personal project(Still developing)
   - Answers to common questions about ordering, shipping, returns, etc.
 
 - **Payment Gateway**:
-  - Users can pay for the orders.
+  - Ipay88
 
-### **2. Admin-Facing Modules (Back-end)**:
+### **2. Admin-Facing Modules **:
 
 - **Dashboard**:
   - Overview of sales, active users, inventory status, and other key metrics.
