@@ -5,7 +5,7 @@ Online store website for personal project(Still developing)
 
 **Client:** React, Redux, HTML , TailWind css , JavaScript
 
-**Server:** Flask,JWT
+**Server:** Flask,JWT,SQLite
 
 ## Modules developed
 
