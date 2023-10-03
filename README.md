@@ -1,4 +1,4 @@
-# Online-Store
+# Streetwear E-Commernce Website
 Online store website for streetwear brand "VIBE"
 
 ## Tech Stack
