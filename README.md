@@ -5,9 +5,9 @@ Online store website for streetwear brand "VIBE"
 
 ## Tech Stack
 
-**Client:** NextJS, Redux, TailWind css,Typescript
+**Client:** NextJS, React, Redux, TailWind css,Typescript
 
-**Server:** Flask,JWT,SQLite
+**Server:** NextJS,NextAuth, MySql
 
 ## Modules developed
 
